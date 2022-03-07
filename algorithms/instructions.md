@@ -9,7 +9,6 @@ missingNumber([1,2,3,4,5,6,8]) to return [7, 9]
 missingNumber([1,2,3,4,5,6,7,8,9]) to return false 
 
 
-
 # Challenge 2
 
 Implement the function numSwap(number) which takes a number of even length, swaps pairs of its adjacent digits and returns the swapped number.
